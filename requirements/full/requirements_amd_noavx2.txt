@@ -1,4 +1,4 @@
-accelerate==1.5.*
+accelerate==1.7.*
 beautifulsoup4==4.13.4
 colorama
 datasets
